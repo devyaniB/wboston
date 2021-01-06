@@ -12,7 +12,7 @@
     "@types/react-dom": "^16.9.0",
     "@types/react-helmet": "^6.1.0",
     "@types/react-syntax-highlighter": "^11.0.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "clsx": "^1.1.1",
     "date-fns": "^2.16.1",
     "lodash-es": "^4.17.15",
